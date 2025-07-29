@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tetris bot", "tetris bot\tetris bot.csproj", "{F1390AE6-FDA1-4A9C-AA46-DA19D94B1015}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1390AE6-FDA1-4A9C-AA46-DA19D94B1015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1390AE6-FDA1-4A9C-AA46-DA19D94B1015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1390AE6-FDA1-4A9C-AA46-DA19D94B1015}.Debug|x64.ActiveCfg = Debug|x64
+		{F1390AE6-FDA1-4A9C-AA46-DA19D94B1015}.Debug|x64.Build.0 = Debug|x64
+		{F1390AE6-FDA1-4A9C-AA46-DA19D94B1015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1390AE6-FDA1-4A9C-AA46-DA19D94B1015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1390AE6-FDA1-4A9C-AA46-DA19D94B1015}.Release|x64.ActiveCfg = Release|x64
+		{F1390AE6-FDA1-4A9C-AA46-DA19D94B1015}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {023A5AFF-0FDB-438E-852B-77A17C8F2A9F}
+	EndGlobalSection
+EndGlobal

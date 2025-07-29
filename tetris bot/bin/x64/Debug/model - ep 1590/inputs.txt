@@ -1,0 +1,4 @@
+bumpiness,
+totalheights,
+holecount(negative),
+scoregained

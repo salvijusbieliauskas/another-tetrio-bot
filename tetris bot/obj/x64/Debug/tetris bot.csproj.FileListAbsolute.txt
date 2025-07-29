@@ -1,0 +1,285 @@
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\tetris bot.exe.config
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\tetris bot.exe
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\tetris bot.pdb
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\HDF.PInvoke.1.10.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\HDF5CSharp.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\MethodBoundaryAspect.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\Protobuf.Text.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\Serilog.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\Serilog.Sinks.Console.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\System.Buffers.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\System.Memory.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\System.Resources.Extensions.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\Serilog.xml
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\Serilog.Sinks.Console.xml
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\System.Buffers.xml
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\System.Memory.xml
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\System.Resources.Extensions.xml
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\obj\x64\Debug\tetris bot.csproj.AssemblyReference.cache
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\obj\x64\Debug\tetris bot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\obj\x64\Debug\tetris bot.exe.config
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\obj\x64\Debug\tetris_bot.Properties.Resources.resources
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\obj\x64\Debug\tetris bot.csproj.GenerateResource.cache
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\obj\x64\Debug\tetris bot.csproj.CoreCompileInputs.cache
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\obj\x64\Debug\tetris bot.csproj.Fody.CopyLocal.cache
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\obj\x64\Debug\tetris bot.csproj.CopyComplete
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\obj\x64\Debug\tetris bot.exe
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\obj\x64\Debug\tetris bot.pdb
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\Keras.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\Numpy.Bare.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\Python.Runtime.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\System.CodeDom.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\System.Threading.Channels.dll
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\Python.Runtime.xml
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\System.Collections.Immutable.xml
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\bin\x64\Debug\System.Threading.Channels.xml
+C:\Users\Sonata\source\repos\tetris bot\tetris bot\obj\x64\Debug\tetris_bot.Form1.resources
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\tetris bot.exe.config
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\tetris bot.exe
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\tetris bot.pdb
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\HDF.PInvoke.1.10.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\HDF5CSharp.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\Keras.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\MethodBoundaryAspect.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\Numpy.Bare.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\Protobuf.Text.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\Python.Runtime.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\Serilog.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\Serilog.Sinks.Console.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\System.Buffers.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\System.CodeDom.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\System.Memory.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\System.Resources.Extensions.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\System.Threading.Channels.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\Python.Runtime.xml
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\Serilog.xml
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\Serilog.Sinks.Console.xml
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\System.Buffers.xml
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\System.Collections.Immutable.xml
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\System.Memory.xml
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\System.Resources.Extensions.xml
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\System.Threading.Channels.xml
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.AssemblyReference.cache
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.exe.config
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\obj\x64\Debug\tetris_bot.Form1.resources
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\obj\x64\Debug\tetris_bot.Properties.Resources.resources
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.GenerateResource.cache
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.CoreCompileInputs.cache
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.Fody.CopyLocal.cache
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.CopyComplete
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.exe
+C:\Users\Sonata\source\repos\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.pdb
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\tetris bot.exe.config
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\tetris bot.exe
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\tetris bot.pdb
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Google.Protobuf.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\HDF.PInvoke.1.10.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\HDF5CSharp.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\ICSharpCode.SharpZipLib.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Keras.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\MethodBoundaryAspect.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Newtonsoft.Json.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Numpy.Bare.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Protobuf.Text.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Python.Runtime.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Serilog.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Serilog.Sinks.Console.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Buffers.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.CodeDom.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Collections.Immutable.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Memory.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Numerics.Vectors.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Resources.Extensions.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Threading.Channels.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Google.Protobuf.pdb
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Google.Protobuf.xml
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\ICSharpCode.SharpZipLib.pdb
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\ICSharpCode.SharpZipLib.xml
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.xml
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Newtonsoft.Json.xml
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Python.Runtime.xml
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Serilog.xml
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Serilog.Sinks.Console.xml
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Buffers.xml
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Collections.Immutable.xml
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Memory.xml
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Numerics.Vectors.xml
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Resources.Extensions.xml
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Threading.Channels.xml
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.AssemblyReference.cache
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.SuggestedBindingRedirects.cache
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.exe.config
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\obj\x64\Debug\tetris_bot.Form1.resources
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\obj\x64\Debug\tetris_bot.Properties.Resources.resources
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.GenerateResource.cache
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.CoreCompileInputs.cache
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.Fody.CopyLocal.cache
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.CopyComplete
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.exe
+P:\Projects\VS Projects\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.pdb
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\tetris bot.exe.config
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\tetris bot.exe
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\tetris bot.pdb
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Google.Protobuf.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\HDF.PInvoke.1.10.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\HDF5CSharp.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\ICSharpCode.SharpZipLib.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Keras.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\MethodBoundaryAspect.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Numpy.Bare.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Protobuf.Text.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Python.Runtime.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Serilog.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Serilog.Sinks.Console.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Buffers.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.CodeDom.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Collections.Immutable.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Memory.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Resources.Extensions.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Threading.Channels.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Google.Protobuf.pdb
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Google.Protobuf.xml
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\ICSharpCode.SharpZipLib.xml
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Python.Runtime.xml
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Serilog.xml
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\Serilog.Sinks.Console.xml
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Buffers.xml
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Collections.Immutable.xml
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Memory.xml
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Resources.Extensions.xml
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Threading.Channels.xml
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.SuggestedBindingRedirects.cache
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.exe.config
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\obj\x64\Debug\tetris_bot.Form1.resources
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\obj\x64\Debug\tetris_bot.Properties.Resources.resources
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.GenerateResource.cache
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.Fody.CopyLocal.cache
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.CopyComplete
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.exe
+D:\Projects\VS Projects\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.pdb
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\tetris bot.exe.config
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\tetris bot.exe
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\tetris bot.pdb
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\Google.Protobuf.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\HDF.PInvoke.1.10.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\HDF5CSharp.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\ICSharpCode.SharpZipLib.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\Keras.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\MethodBoundaryAspect.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\Newtonsoft.Json.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\Numpy.Bare.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\Protobuf.Text.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\Python.Runtime.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\Serilog.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\Serilog.Sinks.Console.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\System.Buffers.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\System.CodeDom.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\System.Collections.Immutable.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\System.Memory.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\System.Numerics.Vectors.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\System.Resources.Extensions.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\System.Threading.Channels.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\Google.Protobuf.pdb
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\Google.Protobuf.xml
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\ICSharpCode.SharpZipLib.pdb
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\ICSharpCode.SharpZipLib.xml
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.xml
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\Newtonsoft.Json.xml
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\Python.Runtime.xml
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\Serilog.xml
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\Serilog.Sinks.Console.xml
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\System.Buffers.xml
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\System.Collections.Immutable.xml
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\System.Memory.xml
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\System.Numerics.Vectors.xml
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\System.Resources.Extensions.xml
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\System.Threading.Channels.xml
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.AssemblyReference.cache
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.SuggestedBindingRedirects.cache
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.exe.config
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\obj\x64\Debug\tetris_bot.Form1.resources
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\obj\x64\Debug\tetris_bot.Properties.Resources.resources
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.GenerateResource.cache
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.CoreCompileInputs.cache
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.Fody.CopyLocal.cache
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.csproj.CopyComplete
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.exe
+Z:\Projects\VS\tetris\tetris bot - custom\tetris bot\obj\x64\Debug\tetris bot.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f1390ae6-fda1-4a9c-aa46-da19d94b1015": {
+      "ProjectGuid": "f1390ae6-fda1-4a9c-aa46-da19d94b1015",
+      "DisplayName": "tetris bot",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
